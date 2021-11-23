@@ -248,7 +248,7 @@ The output of that call contained some print indexes of card #47:
 }
 ```
 
-So I copied those and made an array of those mint numbers and when I put in all the details in the contract function `8. bulkPreBuyCollectible`:
+So I copied those and made an array of those "print indexes" and when I put in all the details in the contract function `8. bulkPreBuyCollectible` like this:
 
 | Key | Value |
 |---|---|
@@ -257,7 +257,7 @@ So I copied those and made an array of those mint numbers and when I put in all 
 | _printIndexes | 8816,8839,8855,8864,8887,8897,8903,8914,8917,8924,8926,8931,8936,8941,8948,8965,8967,8972,8974,8978,8987,8988,8995,9000 |
 | initialPrintPrice | 5000000000000000 |
 
-Which resulted in [this transaction](https://etherscan.io/tx/0xf8738ec68f2417a025a4aed7c676fdc837b194625de6b6684737305c67d3c129). It costed me `0.53 ETH` in gas fee but hey, I got some cards!!
+it resulted in [this transaction](https://etherscan.io/tx/0xf8738ec68f2417a025a4aed7c676fdc837b194625de6b6684737305c67d3c129). It costed me `0.53 ETH` in gas fee but hey, I got some cards!!
 
 So I repeated this process for card #64 (shame I missed #52 haha!).
 Hope you guys learned something from this and let's see what the devs want to do with the rest they minted.
