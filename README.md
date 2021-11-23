@@ -112,7 +112,7 @@ There's the link to the artwork (in the `image` field). Again when navigating to
 
 ![https://ipfs.io/ipfs/QmNy6UP7kJJfFcY6QUWjrUv2EPnMakmkTrJXPPjipwCWNH](https://ipfs.io/ipfs/QmNy6UP7kJJfFcY6QUWjrUv2EPnMakmkTrJXPPjipwCWNH)
 
-Holy crap, so this collection did contain some hidden gems! I had to get those!! 😃
+Holy crap, so this collection did contain some hidden gems! I had to get these!! 😃
 
 Ok, so back to [the transaction](https://etherscan.io/tx/0x639ab4088b21c9886c37f90d8e65ae61f7d1f45e52f63f375a9987751482da33).
 When you view the details of the tx you'll see they paid 0.125 ETH for 25 cards (which is 0.005 ETH per card). However, when you expand `Click to see more` and click `Decode Input Data` you'll see:
