@@ -1,6 +1,6 @@
 ## How to mint the "Lost CryptoCards"
 
-Ok so here are the details how I could mint cards from [the original CryptoCards contract](https://etherscan.io/address/0x86a68f655018389658f657257fd6d0c337c09351).
+Ok so here are the details how I could mint cards from [the "broken" wrapper contract](https://etherscan.io/address/0x86a68f655018389658f657257fd6d0c337c09351).
 It was just a coincidence cause I was looking at what the mint cost of my #36 cards was (minting + wrapping twice). Then I noticed these weird `Bulk Pre Buy Collectible` transactions. When looking into it it occured to me someone was minting cards?!?! Huh say wut? I thought they were all gone? A little later I discovered the ones that were minted now didn't appear in [the overview](https://misfitart.co/collection/crypto-cards). And when navigating to [a detail page](https://misfitart.co/collectible/47) there was this strange PHP error.
 
 Anyway [this transaction](https://etherscan.io/tx/0x639ab4088b21c9886c37f90d8e65ae61f7d1f45e52f63f375a9987751482da33) did catch my attention and I wanted to know what these mysterious cards were..
